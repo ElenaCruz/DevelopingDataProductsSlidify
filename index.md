@@ -15,7 +15,7 @@ knit        : slidify::knit2slides
 ## Introduction
 * The objective of this project is to build a simple shiny application to put in practice what we have learnt during the course
 * My application is quite simple: It will get the height of the two parents as an imput and will 'predict' the expected height for the children
-* As the focus here is in the shiny part and not on the predition model, my prediction function is quite simple (probably, too simple), it just calculates the mean of the height of both parents
+* As the focus here is in the shiny part and not on the prediction model, my prediction function is quite simple (probably too simple), it just calculates the mean of the height of both parents
 
 ---
 
